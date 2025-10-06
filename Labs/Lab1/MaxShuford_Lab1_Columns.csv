@@ -1,0 +1,51 @@
+,Order Number,Order Value,Location,Date,Free Shipping,Delivered
+0,56678,8452.82,Miami,10/7/2025,True,False
+1,56679,665.39,New York,10/9/2025,False,True
+2,56680,5645.57,Billings,10/6/2025,False,False
+3,56681,5496.3,Los Angeles,10/6/2025,True,False
+4,56682,4258.65,Houston,10/9/2025,False,True
+5,56683,7956.09,Los Angeles,10/7/2025,True,False
+6,56684,3867.48,Billings,10/7/2025,True,False
+7,56685,3449.08,Los Angeles,10/9/2025,True,False
+8,56686,917.53,New York,10/7/2025,True,False
+9,56687,3286.82,New York,10/5/2025,True,False
+10,56688,2741.46,Billings,10/9/2025,False,True
+11,56689,1905.8,Houston,10/6/2025,True,False
+12,56690,6323.6,Houston,10/6/2025,True,False
+13,56691,6040.91,Seattle,10/9/2025,False,True
+14,56692,8489.65,Los Angeles,10/6/2025,False,False
+15,56693,3922.43,Billings,10/9/2025,True,False
+16,56694,876.47,Hartford,10/6/2025,True,False
+17,56695,4950.8,Hartford,10/9/2025,True,False
+18,56696,4103.31,Billings,10/7/2025,False,True
+19,56697,3055.82,Miami,10/5/2025,False,False
+20,56698,8529.53,New York,10/9/2025,False,True
+21,56699,9993.16,Hartford,10/9/2025,False,True
+22,56700,4702.53,Houston,10/5/2025,False,False
+23,56701,5680.53,Billings,10/6/2025,True,False
+24,56702,848.2,Miami,10/9/2025,True,False
+25,56703,2266.5,Houston,10/5/2025,True,False
+26,56704,2450.23,Seattle,10/6/2025,True,False
+27,56705,2331.34,Billings,10/6/2025,False,False
+28,56706,8362.61,New York,10/9/2025,True,False
+29,56707,1922.02,New York,10/6/2025,False,False
+30,56708,3102.97,New York,10/6/2025,False,False
+31,56709,9991.0,Seattle,10/7/2025,True,False
+32,56710,6323.33,Houston,10/9/2025,False,True
+33,56711,1460.7,Hartford,10/6/2025,False,False
+34,56712,9827.46,Billings,10/9/2025,False,True
+35,56713,3727.37,Los Angeles,10/5/2025,False,False
+36,56714,8941.91,Miami,10/5/2025,False,False
+37,56715,6435.71,Houston,10/9/2025,False,True
+38,56716,9253.06,New York,10/5/2025,True,False
+39,56717,7825.28,New York,10/7/2025,True,False
+40,56718,7546.88,Los Angeles,10/5/2025,False,False
+41,56719,1657.87,Miami,10/9/2025,False,True
+42,56720,2995.95,Seattle,10/9/2025,True,False
+43,56721,8948.33,Hartford,10/9/2025,True,False
+44,56722,9966.96,Hartford,10/7/2025,True,False
+45,56723,6338.78,Billings,10/6/2025,True,False
+46,56724,9862.93,Hartford,10/6/2025,False,False
+47,56725,1969.26,New York,10/9/2025,False,True
+48,56726,2617.84,New York,10/5/2025,True,False
+49,56727,2203.68,Seattle,10/5/2025,True,False
